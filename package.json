@@ -1,0 +1,14 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "In this exercise, you’ll use an algorithm for generating realistic machine-made text from an original source text.",
+  "main": "markov.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Uyo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
